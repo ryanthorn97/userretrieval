@@ -1,0 +1,16 @@
+{
+    "name": "ryan/userretrieval",
+    "description": "Developer Interview Task For Active Housing",
+    "autoload": {
+        "psr-4": {
+            "Ryan\\Userretrieval\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan",
+            "email": "ryanthorn97@gmail.com"
+        }
+    ],
+    "require": {}
+}
